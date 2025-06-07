@@ -2,7 +2,7 @@
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7354495730:AAEdzs7ILmJWv0P3qnAizz6ErP55epoJlMk"
 WEBAPP_URL = "https://shihabmollah07.github.io/telegram-mini-board/"
 
 # Start command handler
